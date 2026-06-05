@@ -1,6 +1,6 @@
 ## Getting Started
 
-`ngx-lazy-directive` provides an easy way to lazy load components combined with `*ngIf` directive, thereby reducing the Firrst Contentful Paint time when a module becomes larger.
+`ngx-lazy-directive` provides an easy way to lazy load components combined with `*ngIf` directive, thereby reducing the First Contentful Paint time when a module becomes larger.
 
 ## Installation
 
